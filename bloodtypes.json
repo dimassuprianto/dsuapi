@@ -1,4 +1,6 @@
-{"id":1, "description":"A"},
-{"id":2, "description":"B"},
-{"id":3, "description":"AB"},
-{"id":4, "description":"O"}
+[
+  {"id":1, "description":"A"},
+  {"id":2, "description":"B"},
+  {"id":3, "description":"AB"},
+  {"id":4, "description":"O"}
+]
