@@ -1,0 +1,8 @@
+[
+  {"id":1, "description":"Buddha"},
+  {"id":2, "description":"Hindu"},
+  {"id":3, "description":"Islam"},
+  {"id":4, "description":"Katolik"},
+  {"id":5, "description":"Konghucu"},
+  {"id":6, "description":"Protestan"}
+]
